@@ -1,5 +1,5 @@
 
-TOKEN = '6175481678:AAFqtkkAsN9tqbl41u067fp5sOvZp0KxWIA'
+TOKEN = '%token here%'
 cryptocurrency = {
     'биткоин': 'BTC',
     'эфириум': 'ETH',
